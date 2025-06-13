@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd3aec01-8531-407a-96b9-58e127f62681" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/src/first.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first.java" afterDir="false" />
-    </list>
+    <list default="true" id="fd3aec01-8531-407a-96b9-58e127f62681" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1749788517119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1749788829836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749788829836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1749789158195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749789158195</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
