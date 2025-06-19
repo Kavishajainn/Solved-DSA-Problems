@@ -1,3 +1,7 @@
+/*
+problem--1D array
+time complexity -- O(n)
+*/
 package Arrays;
 import java.util.*;
 public class A1_1D_Array {
