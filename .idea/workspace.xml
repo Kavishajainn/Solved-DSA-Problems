@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd3aec01-8531-407a-96b9-58e127f62681" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/searchingAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A4_MaximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A2_searchingAnElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A2_searchingAnElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A3_sumOfElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A3_sumOfElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.searchingAnElement">
+  <component name="RunManager" selected="Application.A4_MaximumElement">
     <configuration name="A1_1D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.A1_1D_Array" />
       <module name="Solved-DSA-Problem" />
@@ -104,15 +106,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array1" />
+    <configuration name="A4_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A4_MaximumElement" />
       <module name="Solved-DSA-Problem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first" />
+    <configuration name="array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array1" />
       <module name="Solved-DSA-Problem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A4_MaximumElement" />
         <item itemvalue="Application.searchingAnElement" />
         <item itemvalue="Application.sumOfElement" />
         <item itemvalue="Application.A1_1D_Array" />
         <item itemvalue="Application.array1" />
-        <item itemvalue="Application.first" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1750393090250</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init commit">
+      <created>1750397876288</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750397876288</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,11 +1,11 @@
 /*
-* problem-- linear search
-* time complexity -- o(n)*/
+* problem-- find maximum element in array
+* time complexity-- o(n)*/
 package Arrays;
 
 import java.util.Scanner;
 
-public class A2_searchingAnElement {
+public class A4_MaximumElement {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the length of array: ");
@@ -15,14 +15,14 @@ public class A2_searchingAnElement {
         for(int i=0;i<arr.length;i++){
             arr[i]=sc.nextInt();
         }
-        System.out.println("give no for search");
-        int b=sc.nextInt();
+        int max=0;
+        int idx=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]==b){
-                System.out.println("found at index: "+ i );
-                System.exit(0);
+            if(arr[i]>max){
+                max=arr[i];
+                idx=i;
             }
         }
-        System.out.println("not found!");
+        System.out.println("Maximum element is: "+max+" at index "+idx);
     }
 }
