@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd3aec01-8531-407a-96b9-58e127f62681" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A5_SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/A6_rotatingAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A1_1DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A1_1DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A4_maximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A4_maximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/A5_secondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/A5_secondLargestElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,20 +94,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.A5_SecondLargestElement">
-    <configuration name="A1_1D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.A1_1D_Array" />
-      <module name="Solved-DSA-Problem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.A6_rotatingAnArray">
     <configuration name="A4_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.A4_MaximumElement" />
       <module name="Solved-DSA-Problem" />
@@ -119,6 +110,19 @@
     </configuration>
     <configuration name="A5_SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.A5_SecondLargestElement" />
+      <module name="Solved-DSA-Problem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A6_rotatingAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.A6_rotatingAnArray" />
       <module name="Solved-DSA-Problem" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A6_rotatingAnArray" />
         <item itemvalue="Application.A5_SecondLargestElement" />
         <item itemvalue="Application.A4_MaximumElement" />
         <item itemvalue="Application.searchingAnElement" />
         <item itemvalue="Application.sumOfElement" />
-        <item itemvalue="Application.A1_1D_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1750398654291</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init commit">
+      <created>1750399652468</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750399652469</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

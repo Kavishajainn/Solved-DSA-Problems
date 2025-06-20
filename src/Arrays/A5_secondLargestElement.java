@@ -5,7 +5,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-public class A5_SecondLargestElement {
+public class A5_secondLargestElement {
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
             System.out.println("enter the length of array: ");

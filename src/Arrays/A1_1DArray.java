@@ -4,7 +4,7 @@ time complexity -- O(n)
 */
 package Arrays;
 import java.util.*;
-public class A1_1D_Array {
+public class A1_1DArray {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the length of array: ");
@@ -20,3 +20,4 @@ public class A1_1D_Array {
         }
     }
 }
+
