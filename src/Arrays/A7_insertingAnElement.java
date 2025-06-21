@@ -18,7 +18,7 @@ public class A7_insertingAnElement {
         int insert=sc.nextInt();
         System.out.println("enter position: ");
         int pos=sc.nextInt();
-        if(pos<= arr.length) {
+        if(pos<= a+1) {
             for(int i=a+1;i>pos-1;i--){
                 arr[i]=arr[i-1];
             }
@@ -27,6 +27,7 @@ public class A7_insertingAnElement {
         }
         else{
             System.out.println("invalid position! ");
+            System.exit(0);
         }
         System.out.println("array after insertion on an element ");
         for(int i=0;i<a;i++){
