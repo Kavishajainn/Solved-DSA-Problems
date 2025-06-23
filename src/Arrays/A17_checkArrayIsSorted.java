@@ -1,7 +1,8 @@
 /*
 * problem-- check if an array is sorted
 * link-- https://takeuforward.org/data-structure/check-if-an-array-is-sorted/
-* time complexity-- O(n)*/
+* time complexity-- O(n)
+* space complexity--O(1)*/
 
 package Arrays;
 
