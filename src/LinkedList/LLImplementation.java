@@ -91,6 +91,7 @@ public class LLImplementation {
     }
 
     public int getSize(){
+
         return size;
     }
     public static void main(String[] args) {
