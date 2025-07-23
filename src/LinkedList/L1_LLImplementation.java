@@ -2,11 +2,11 @@
 * problem-- implementation of linkedList
 */
 package LinkedList;
-public class LLImplementation {
+public class L1_LLImplementation {
     Node head;
     private int size;
 
-    LLImplementation (){
+    L1_LLImplementation(){
         size=0;
     }
     class Node{
@@ -95,7 +95,7 @@ public class LLImplementation {
         return size;
     }
     public static void main(String[] args) {
-        LLImplementation list=new LLImplementation();
+        L1_LLImplementation list=new L1_LLImplementation();
         list.addFirst("a");
         list.addFirst("is");
         list.printList();

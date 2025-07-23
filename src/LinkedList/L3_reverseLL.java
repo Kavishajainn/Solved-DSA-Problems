@@ -3,10 +3,10 @@
 */
 package LinkedList;
 
-public class reverseIterateLL {
+public class L3_reverseLL {
     private int size;
     Node head;
-    reverseIterateLL(){
+    L3_reverseLL(){
         size=0;
     }
     class Node{
@@ -127,7 +127,7 @@ public class reverseIterateLL {
     }
     public static void main(String[] args) {
 
-        reverseIterateLL list=new reverseIterateLL();
+        L3_reverseLL list=new L3_reverseLL();
         list.addFirst("a");
         list.addFirst("is");
         list.printList();

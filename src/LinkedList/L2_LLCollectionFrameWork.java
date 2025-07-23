@@ -2,7 +2,7 @@
 * problem-- implement of linkedList using collection Framework */
 package LinkedList;
 import java.util.*;
-public class LLCollectionFrameWork {
+public class L2_LLCollectionFrameWork {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<String>();
 
