@@ -143,7 +143,7 @@ public class L5_LLisPalindrome {
         list.addFirst("1");
         list.addLast("2");
         list.addLast("3");
-        list.addLast("3");
+        list.addLast("2");
         list.addLast("1");
         System.out.println(list.isPalindrome(list.head));
 
