@@ -1,6 +1,7 @@
 /*
 * problem--rotating an array in left and right side
-* time complexity--O(n) */
+* time complexity--O(n)
+* space complexity--O(n)*/
 package Arrays;
 
 import java.util.Scanner;
